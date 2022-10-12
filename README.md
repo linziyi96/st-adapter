@@ -1,6 +1,6 @@
-## [NeurIPS 2022] ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning for Action Recognition
+## [NeurIPS 2022] ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning
 
-This is the official repo of the paper [ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning for Action Recognition](https://arxiv.org/abs/2206.13559).
+This is the official repo of the paper [ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning](https://arxiv.org/abs/2206.13559).
 
 ```
 @article{pan2022st,
