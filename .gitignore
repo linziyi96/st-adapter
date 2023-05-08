@@ -1,0 +1,5 @@
+*.swp
+output_dir/
+__pycache__/
+video_dataset/load_binary_internal.py
+configs.py
